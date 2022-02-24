@@ -88,6 +88,7 @@ user-select: none;
 }
 
 .form-btn {
+    margin:15px;
     padding: 7px 60px!important;
     color:white;
 }
